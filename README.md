@@ -16,3 +16,8 @@ Este projeto foi desenvolvido para automatizar o controle financeiro de apostas 
 1. Execute o script `script_banca.sql` no seu ambiente PostgreSQL.
 2. Insira suas apostas na tabela `Apostas` sem precisar calcular o lucro manual.
 3. Utilize a query de relatório para acompanhar sua performance.
+
+## 📊 Demonstração do Resultado
+Abaixo, um exemplo da tabela de apostas com o lucro calculado automaticamente pela Trigger:
+
+![Resultado do Banco de Dados](resultado_query.png)
